@@ -14,7 +14,7 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="https://dgunadharma20.github.io/iBDawgsDashboard/"
+                  href="https://brianp99.github.io/cyberdawgs-dashboard/"
                   className="btn btn-custom btn-lg page-scroll"
                 >
                   Go to Dashboard
