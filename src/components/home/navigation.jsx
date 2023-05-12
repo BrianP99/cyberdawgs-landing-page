@@ -53,7 +53,7 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href="https://dgunadharma20.github.io/iBDawgsDashboard/" className="page-scroll">
+              <a href="https://brianp99.github.io/cyberdawgs-dashboard/" className="page-scroll">
                 Dashboard
               </a>
             </li>
