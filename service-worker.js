@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cyberdawgs-landing-page/precache-manifest.b40cec2769942827366c8e0ff0e84758.js"
+  "/cyberdawgs-landing-page/precache-manifest.2a8e7dc0118c24e0a3bb4ed2475dc3f8.js"
 );
 
 workbox.clientsClaim();

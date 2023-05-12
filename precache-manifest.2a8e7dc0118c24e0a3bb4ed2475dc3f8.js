@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f81347310a45f6251597",
+    "revision": "50ed1b66a904d5f73401",
     "url": "/cyberdawgs-landing-page/static/css/main.cfc1e933.chunk.css"
   },
   {
-    "revision": "f81347310a45f6251597",
-    "url": "/cyberdawgs-landing-page/static/js/main.f95f9580.chunk.js"
+    "revision": "50ed1b66a904d5f73401",
+    "url": "/cyberdawgs-landing-page/static/js/main.5b315c6a.chunk.js"
   },
   {
     "revision": "5078e8318f413aa99455",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/cyberdawgs-landing-page/static/js/3.5b0ae9b5.chunk.js"
   },
   {
-    "revision": "cba22a19989f851b16bea2c3b9883e8e",
+    "revision": "08ca953054381d93cd4bb6a8fb3305b6",
     "url": "/cyberdawgs-landing-page/index.html"
   }
 ];
