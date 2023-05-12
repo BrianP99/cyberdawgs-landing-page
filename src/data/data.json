@@ -1,0 +1,116 @@
+{
+  "Header": {
+    "title": "iBDawgs Network Traffic Dashboard"  
+  },
+  "About": {
+    "paragraph": "How might security analysts specializing in security aspects of applications utilize AI & ML models on network traffic data so that they can improve the security and privacy of web-based service enterprises? Here at iBDawgs, we explore and develop AI and ML models to detect and analyze different account behaviors by looking at patterns of logins across features/entities shared by attackers.",
+    "Why": [
+      "Cyber threats pose severe consequences",
+      "Current methods may not prevent unauthorized access",
+      "Vulnerability lead to losses and damages",
+      "Traditional methods may not suffice against evolving threats"
+    ],
+    "Why2": [
+      "Audience: security analysts specialized in app security",
+      "Secure web services with open-source data",
+      "Enhance security management sustainability",
+      "Reduce risks, enhance digital ecosystem security"
+    ]
+  },
+  "Features": [
+    {
+      "icon": "fa fa-exclamation-triangle",
+      "name": "DDoS Attack Types",
+      "text": "A description of different types of DDoS attacks and an identification of the most commonly used type."
+    },
+    {
+      "icon": "fa fa-signal",
+      "name": "Network Traffic",
+      "text": "An explanation of network traffic data and how it is distributed on a map across the world."
+    },
+    {
+      "icon": "fa fa-search",
+      "name": "Feature Selection",
+      "text": "A description of the dataset or network traffic data features used to achieve consistent high accuracy scores when testing different types of DDoS attacks on an ML model."
+    },
+    {
+      "icon": "fa fa-cube",
+      "name": "ML Model",
+      "text": "Testing various ML models and comparing their performance scores to identify the most effective model."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Using the interactive data visualization dashboard was a delightful experience for me as it enabled me to delve into the network security data and uncover valuable insights regarding how various features can aid in detecting potential threats.\"",
+      "name": "Computer Science Undergraduate Student"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"For individuals seeking to expand their knowledge of cybersecurity trends and data, the website serves as an exceptional resource.\"",
+      "name": "Cybersecurity Intern"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"iBDawgs Dashboard website is an excellent tool that facilitates the exploration of cybersecurity trends and provides valuable industry insights.\"",
+      "name": "Software Engineer"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/JB.jpg",
+      "name": "Jonathan Bryan Prasetyo",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/Darren.jpg",
+      "name": "Darren Gunadharma",
+      "job": "Data Engineer"
+    },
+    {
+      "img": "img/team/Aaron.jpg",
+      "name": "Aaron Liu",
+      "job": "Data Analyst"
+    },
+    {
+      "img": "img/team/BP.jpg",
+      "name": "Brian Park",
+      "job": "Data Analyst/Scientist"
+    },
+    {
+      "img": "img/team/BB.jpg",
+      "name": "Bryan Bernardi",
+      "job": "Cybersecurity Analyst"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Insights": [
+    {
+      "icon": "fa fa-filter",
+      "title": "Feature Selection",
+      "text": "Network Traffic Data comprises various features that are utilized to recognize it."
+    },
+    {
+      "icon": "fa fa-user-secret",
+      "title": "Benign vs Malicious",
+      "text": "A benign IP address contains identifiable information that accurately represents itself, whereas a malicious IP address does not."
+    },
+    {
+      "icon": "fa fa-cube",
+      "title": "ML Models",
+      "text": "The effectiveness of various machine learning models depends on the selection of different features."
+    },
+    {
+      "icon": "fa fa-globe",
+      "title": "Network Traffic",
+      "text": "Network traffic data is generated globally and continuously."
+    }
+  ]
+}
